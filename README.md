@@ -4,3 +4,6 @@
 
 
 Para ejecutar el sistema, debes poner: ```nps install react```
+
+
+Actualización del readme.md
